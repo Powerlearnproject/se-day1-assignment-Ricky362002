@@ -5,6 +5,9 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software Engineering is the application of engineering principles to software development in a methodical and structured manner. It involves processes such as planning, analysis, design, implementation, testing, and maintenance, aiming to produce reliable and efficient software that meets user requirements. 
+In contrast, Traditional Programming typically refers to the act of writing code to solve a specific problem without necessarily following a systematic process. Traditional programming may lack the rigorous planning, testing, and documentation that are integral to software engineering.
+Example: Developing a simple automation script could be considered traditional programming, whereas creating a large-scale system like an e-commerce platform would require a software engineering approach (Pressman, 2014).
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
