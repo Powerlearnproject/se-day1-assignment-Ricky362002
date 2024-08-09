@@ -11,6 +11,14 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+Phases of SDLC
+i.Requirement Analysis: This phase involves gathering, analyzing, and documenting the requirements of the software. The goal is to understand what the users need and what the system must do (Sommerville, 2015).
+ii.System Design  In this phase, the system’s architecture is designed, including the database schema, system interfaces, and overall system structure (Pressman, 2014).
+iii.Implementation (Coding): The actual code is written during this phase. Developers translate the design into executable software (Sommerville, 2015).
+iv.Testing :This phase involves verifying that the software works as intended and is free of defects. It includes unit testing, integration testing, system testing, and acceptance testing (Pressman, 2014).
+v.Deployment:The software is released into the production environment where users can start using it (Sommerville, 2015).
+vi.Maintenance:Post-deployment, the software is maintained by fixing bugs, improving performance, and adapting to new requirements (Pressman, 2014).
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
